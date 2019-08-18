@@ -2,7 +2,7 @@
 
 Game implementation by Luiz Ramos
 
-This program runs on http://www.codeskulptor.org/
+This program runs on https://py3.codeskulptor.org/
 
 To run it, copy and paste the code into the text box on the right and hit the "play" button
 
